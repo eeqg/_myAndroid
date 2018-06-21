@@ -1,5 +1,5 @@
 # _myAndroid  
-<br/>
+
 ### 开源库
 1. **Rx2网络封装** [RxHttpUtils](https://github.com/lygttpod/RxHttpUtils)
 2. **6.0权限库** [RxPermissions](https://github.com/tbruyelle/RxPermissions)
