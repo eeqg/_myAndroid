@@ -19,5 +19,6 @@
 
 
 ### Project
-1. **电子书** [LiangLuDev/WeYueReader 微Yue电子书](https://github.com/LiangLuDev/WeYueReader)
+1. **电子书**   [LiangLuDev/WeYueReader 微Yue电子书](https://github.com/LiangLuDev/WeYueReader)
+			 [HwTxtReader 轻量级Txt播放器 、文本播放组件、txt文件加载控件]  (https://github.com/bifan-wei/HwTxtReader)
 2.   
