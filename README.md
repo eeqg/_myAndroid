@@ -19,5 +19,5 @@
 
 
 ### Project
-1, **电子书** [LiangLuDev/WeYueReader 微Yue电子书](https://github.com/LiangLuDev/WeYueReader)
-2,  
+1. **电子书** [LiangLuDev/WeYueReader 微Yue电子书](https://github.com/LiangLuDev/WeYueReader)
+2.   
