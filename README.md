@@ -1,8 +1,7 @@
-# _myAndroid
-
-
+# _myAndroid  
+<br/>
 ### 开源库
-1. **Rx2网络封装** [RxHttpUtils](https://github.com/lygttpod/RxHttpUtils) 
+1. **Rx2网络封装** [RxHttpUtils](https://github.com/lygttpod/RxHttpUtils)
 2. **6.0权限库** [RxPermissions](https://github.com/tbruyelle/RxPermissions)
 3. **Glide图片加载库** [Glide](https://github.com/bumptech/glide)
 4. **下拉刷新库** [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
@@ -20,7 +19,8 @@
 --------------------------------------------
 
 ### Project
-1. **电子书**  
-   *[LiangLuDev/WeYueReader 微Yue电子书](https://github.com/LiangLuDev/WeYueReader)  
-   *[HwTxtReader 轻量级Txt播放器 、文本播放组件、txt文件加载控件](https://github.com/bifan-wei/HwTxtReader)
-2.   
+* **电子书**  
+   1. [LiangLuDev/WeYueReader 微Yue电子书](https://github.com/LiangLuDev/WeYueReader)  
+   2. [MaterialHome 一个基于 Material Design 风格设计的图书展示类App，豆瓣图书，在线电子书](https://github.com/hymanme/MaterialHome)  
+   3. [HwTxtReader 轻量级Txt播放器 、文本播放组件、txt文件加载控件](https://github.com/bifan-wei/HwTxtReader)
+* **干货集中营** [GanK](https://github.com/dongjunkun/GanK)
