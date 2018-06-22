@@ -24,3 +24,4 @@
    2. [MaterialHome 一个基于 Material Design 风格设计的图书展示类App，豆瓣图书，在线电子书](https://github.com/hymanme/MaterialHome)  
    3. [HwTxtReader 轻量级Txt播放器 、文本播放组件、txt文件加载控件](https://github.com/bifan-wei/HwTxtReader)
 * **干货集中营** [GanK](https://github.com/dongjunkun/GanK)
+* **Hot** [一个用MVP+Rxjava+Retrofit构建项目](https://github.com/zj-wukewei/Hot)
