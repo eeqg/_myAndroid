@@ -17,7 +17,7 @@
 13. **图片选择器** [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
 14. **项目首页**- [GanK](https://github.com/dongjunkun/GanK) -在基础上修改
 
-15. **流式布局** [flexbox-layout](https://github.com/google/flexbox-layout) 
+15. **google流式布局** [flexbox-layout](https://github.com/google/flexbox-layout)  
 		1. [玩转FlexboxLayout布局](https://blog.csdn.net/u012702547/article/details/52293593)
 16. 
 
