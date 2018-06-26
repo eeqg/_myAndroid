@@ -1,5 +1,6 @@
 # _myAndroid  
 
+
 ### 开源库
 1. **Rx2网络封装** [RxHttpUtils](https://github.com/lygttpod/RxHttpUtils)
 2. **6.0权限库** [RxPermissions](https://github.com/tbruyelle/RxPermissions)
@@ -16,6 +17,10 @@
 13. **图片选择器** [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
 14. **项目首页**- [GanK](https://github.com/dongjunkun/GanK) -在基础上修改
 
+15. **流式布局** [flexbox-layout](https://github.com/google/flexbox-layout) 
+		1. [玩转FlexboxLayout布局](https://blog.csdn.net/u012702547/article/details/52293593)
+16. 
+
 --------------------------------------------
 
 ### Project
@@ -25,3 +30,4 @@
    3. [HwTxtReader 轻量级Txt播放器 、文本播放组件、txt文件加载控件](https://github.com/bifan-wei/HwTxtReader)
 * **干货集中营** [GanK](https://github.com/dongjunkun/GanK)
 * **Hot** [一个用MVP+Rxjava+Retrofit构建项目](https://github.com/zj-wukewei/Hot)
+* **Colorful** [基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式](https://github.com/hehonghui/Colorful)
